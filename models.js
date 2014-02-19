@@ -11,6 +11,3 @@ var ProjectSchema = new Mongoose.Schema({
 });
 
 exports.Project = Mongoose.model('Project', ProjectSchema);
-
-
-//ON SLIDE 40 FOR WHEN YOU CONTINUE
